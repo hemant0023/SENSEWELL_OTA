@@ -1,10 +1,11 @@
-{
+{    "LOCATION":"VADODARA"
+     "REGION" :"VADODARA"   
     "firmware_version": "1.0.0",
     "hardware_version": "HW-2.1",
     "company": "YourCompanyName",
     "make": "Motor Automation",
     "group": "Industrial Controllers",
     "serial_number": "SN12345678",
-    "bin_file": "motor_automation_v1.0.0.bin",
+    "bin_file": "bin_automation_v1.0.0.bin",
     "bin_url": "https://github.com/YourUser/YourRepo/releases/download/v1.0.0/czar_automation_v1.0.0.bin"
 }
