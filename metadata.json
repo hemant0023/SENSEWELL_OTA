@@ -1,5 +1,8 @@
-{    "LOCATION":"VADODARA"
-     "REGION" :"VADODARA"   
+{    "LOCATION":"VADODARA",
+     "REGION" :"VADODARA",
+     "UPDATE_DTM": "02/01/2000",
+     "TENDER":"2CCCC",
+     "MODEL":"AZ234",
     "firmware_version": "1.0.0",
     "hardware_version": "HW-2.1",
     "company": "YourCompanyName",
