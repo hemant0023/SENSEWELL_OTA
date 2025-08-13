@@ -1,6 +1,6 @@
 {    "LOCATION":"VADODARA",
      "REGION" :"VADODARA",
-     "UPDATE_DTM": "02/01/2000",
+     "VERSION_UPDATE_DTM": "02/01/2000",
      "TENDER":"2CCCC",
      "MODEL":"AZ234",
     "firmware_version": "1.0.0",
@@ -9,6 +9,6 @@
     "make": "Motor Automation",
     "group": "Industrial Controllers",
     "serial_number": "SN12345678",
-    "bin_file": "bin_automation_v1.0.0.bin",
-    "bin_url": "https://github.com/hemant0023/SENSEWELL_OTA/raw/refs/heads/ota_firmware/czar_automation_v1.0.0.bin"
+    "FIRMWARE_FILE": "bin_automation_v1.0.0.bin",
+    "FIRMWARE_URL": "https://github.com/hemant0023/SENSEWELL_OTA/raw/refs/heads/ota_firmware/czar_automation_v1.0.0.bin"
 }
