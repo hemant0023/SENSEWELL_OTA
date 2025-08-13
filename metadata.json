@@ -10,5 +10,5 @@
     "group": "Industrial Controllers",
     "serial_number": "SN12345678",
     "FIRMWARE_FILE": "bin_automation_v1.0.0.bin",
-    "FIRMWARE_URL": "https://github.com/hemant0023/SENSEWELL_OTA/raw/refs/heads/ota_firmware/czar_automation_v1.0.0.bin"
+    "FIRMWARE_URL": "https://raw.githubusercontent.com/hemant0023/SENSEWELL_OTA/refs/heads/ota_firmware/czar_automation_v1.0.0.bin"
 }
