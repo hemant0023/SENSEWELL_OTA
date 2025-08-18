@@ -9,8 +9,8 @@
      "make": "BLANKET_APPLICATION",
      "group": "AUTONIC_BLANKET",
      "serial_number": "ALL",
-     "FIRMWARE_FILE": "bin_automation_v1.0.0.bin",
-     "FIRMWARE_URL": "https://raw.githubusercontent.com/hemant0023/SENSEWELL_OTA/refs/heads/ota_firmware/czar_automation_v1.0.0.bin", 
+     "FIRMWARE_FILE": "bin_automation_v1.0.0.bin",  
+     "FIRMWARE_URL": "https://raw.githubusercontent.com/hemant0023/SENSEWELL_OTA/refs/heads/ota_firmware/app-template.bin", 
      "FIRMWARE_SHA256":"ALL",
-     "FIRMWARE_FILE_PATH": "",
+     "FIRMWARE_FILE_PATH": "hemant0023/SENSEWELL_OTA/raw/refs/heads/ota_firmware/app-template.bin",
 }
