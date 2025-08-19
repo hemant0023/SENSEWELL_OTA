@@ -17,7 +17,7 @@
      "SPIFF_FILE_VERSION":"V.1.1.0",
      "SPIFF_FILE_FILE": "storage.bin",
      "SPIFF_FILE_URL": "https://raw.githubusercontent.com/hemant0023/SENSEWELL_OTA/ota_firmware/storage.bin",
-     "SPIFF_FILE_SHA256": "ALL"
-     "SPIFF_FILE_PATH": "/hemant0023/SENSEWELL_OTA/ota_firmware/storage.bin" 
+     "SPIFF_FILE_SHA256": "ALL",
+     "SPIFF_FILE_PATH": "/hemant0023/SENSEWELL_OTA/ota_firmware/storage.bin" ,
 
 }
