@@ -8,7 +8,7 @@
      "MAKE": "BLANKET_APPLICATION",
      "GROUP": "AUTONIC_BLANKET",
      "SERIAL_NUMBER": "ALL",
-     "FIRMWARE_VERSION": "V.1.2.0",
+     "HARDWARE_VERSION": "V.1.2.0",
      "FIRMWARE_VERSION": "V.1.0",
      "FIRMWARE_FILE": "app-template.bin",  
      "FIRMWARE_URL": "https://raw.githubusercontent.com/hemant0023/SENSEWELL_OTA/ota_firmware/app-template.bin", 
