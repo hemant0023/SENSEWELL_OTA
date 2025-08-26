@@ -12,7 +12,7 @@
      "FIRMWARE_VERSION": "V.1.1.0",
      "FIRMWARE_FILE": "app-template.bin",  
      "FIRMWARE_URL": "https://raw.githubusercontent.com/hemant0023/SENSEWELL_OTA/ota_firmware/app-template.bin", 
-     "FIRMWARE_SHA256":"47cf4543f76a7974149b86daa98058c21e3df01141deee227057ae76630579f2",
+     "FIRMWARE_SHA256":"ee75c7eea43167e6ab79e23bce5e91a272f1046bbc6cf9e7525fce482391e824",
      "FIRMWARE_FILE_PATH": "/hemant0023/SENSEWELL_OTA/ota_firmware/app-template.bin",
      "SPIFF_FILE_VERSION":"V.1.2.0",
      "SPIFF_FILE_FILE": "storage.bin",
